@@ -1,5 +1,1 @@
-# wai-resource-template
-
-Fork this repository to create a new resource.
-
-More documentation to come!
+# Web Accessibility First Aid: Approaches for Interim Repairs
