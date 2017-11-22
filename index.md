@@ -1,6 +1,8 @@
 ---
 title: "Web Accessibility First Aid: Approaches for Interim Repairs"
 permalink: /plan/interim-repairs/
+redirect_from: /
+layout: default
 ---
 
 Introduction
