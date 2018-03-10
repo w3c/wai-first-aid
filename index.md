@@ -48,10 +48,10 @@ basic understanding of accessibility:
 When you need more in-depth background:
 
 -   [How People with Disabilities Use the
-    Web](https://www.w3.org/WAI/intro/people-use-web/) — Introduces
+    Web]({{ "/people-use-web/" | relative_url }}) — Introduces
     experiences and terminology in accessibility and disability.
 -   [Accessibility
-    Principles](https://www.w3.org/WAI/intro/people-use-web/principles)
+    Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
     — Introduces accessibility requirements defined by the W3C
     guidelines.
 
