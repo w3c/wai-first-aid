@@ -13,13 +13,13 @@ Do you need to urgently address accessibility in an on-going web
 project? This is a concise overview with pointers to help address the
 most critical issues. Find a more comprehensive accessibility approach
 for the entire design and development process in [Planning and Managing
-Web Accessibility](https://www.w3.org/WAI/impl/Overview).
+Web Accessibility]({{ "/planning-and-managing/" | relative_url }}).
 
 Key Resources for Designers and Developers {#resources}
 ------------------------------------------
 
 -   [Tips for Getting
-    Started](https://www.w3.org/WAI/gettingstarted/tips/) — Practical
+    Started]({{ "/tips/" | relative_url }}) — Practical
     considerations with examples for designing, writing, and developing
     accessible web content.
 -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) —
@@ -35,11 +35,9 @@ What is Accessibility? {#understand}
 If you are new to accessibility, it is often helpful to first get a
 basic understanding of accessibility:
 
--   [W3C -
-    Accessibility](https://www.w3.org/standards/webdesign/accessibility)
-    — Introduces essential concepts, rationale, and resources.
+-   [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)— Introduces essential concepts, rationale, and resources.
 -   [Web Accessibility
-    Perspectives](https://www.w3.org/WAI/perspectives) — Short
+    Perspectives]({{ "/perspective-videos/" | relative_url }}) — Short
     non-technical videos that introduce accessibility features and their
     benefits for everyone.
 
@@ -149,15 +147,15 @@ Tips for Efficient Repair {#repair}
     changes that do not work in practice. If at all possible, it is
     important to involve people with disabilities in such validation.
     The resources about [involving users in web
-    projects](https://www.w3.org/WAI/users/involving) and [evaluating
-    with users](https://www.w3.org/WAI/eval/users.html) provide more
+    projects]({{ "/plan/involving-users/" | relative_url }}) and [evaluating
+    with users]({{ "/test-evaluate/involving-users/" | relative_url }}) provide more
     background.
 -   **Optimize your Tools** — Explore and configure accessibility
     settings in the authoring tools you use to create web content, such
     as your content management system (CMS). The resources about
     [selecting evaluation
     tools](https://www.w3.org/WAI/eval/selectingtools) and [selecting
-    authoring tools](https://www.w3.org/WAI/impl/software) may be
+    authoring tools]({{ "/planning-and-managing/" | relative_url }}/software) may be
     helpful.
 
 Longer Term: Planning and Managing {#plan}
@@ -167,5 +165,5 @@ Once you have addressed some of the most critical web accessibility
 issues on your web project, it is essential you plan to integrate
 accessibility throughout future design and development processes. The
 [Planning and Managing Web
-Accessibility](https://www.w3.org/WAI/impl/Overview) guide can help you
+Accessibility]({{ "/planning-and-managing/" | relative_url }}) guide can help you
 develop that plan.
