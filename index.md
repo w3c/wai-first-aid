@@ -63,7 +63,7 @@ section. If you need to identify potential issues, these resources can
 help:
 
 -   [Easy Checks — A First Review of Web
-    Accessibility](https://www.w3.org/WAI/eval/preliminary.html) —
+    Accessibility]({{ "/test-evaluation/preliminary/" | relative_url }}) —
     Simple checks that can be carried out by anyone, regardless of
     technical skills and accessibility knowledge.
 -   [List of Web Accessibility Evaluation
@@ -113,7 +113,7 @@ Set your Accessibility Target Level {#target}
 -----------------------------------
 
 The generally accepted target for accessibility is [Web Content
-Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
+Accessibility Guidelines (WCAG) 2.0]({{ "/standards-guidelines/wcag/" | relative_url }})
 Level AA. This may already be the standard specified in your
 organizational policy or it may be the legal requirement for your
 website.
