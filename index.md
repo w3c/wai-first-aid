@@ -1,7 +1,8 @@
 ---
 title: "Web Accessibility First Aid: Approaches for Interim Repairs"
 permalink: /plan/interim-repairs/
-repository: w3c/wai-first-aid
+github:
+  repository: w3c/wai-first-aid
 layout: default
 ---
 
