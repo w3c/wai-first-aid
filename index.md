@@ -6,15 +6,28 @@ github:
 layout: default
 ---
 
-Introduction
-------------
-{:#intro.no-display}
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-Do you need to urgently address accessibility in an on-going web
-project? This is a concise overview with pointers to help address the
-most critical issues. Find a more comprehensive accessibility approach
-for the entire design and development process in [Planning and Managing
-Web Accessibility]({{ "/planning-and-managing/" | relative_url }}).
+Do you need to urgently address accessibility in an on-going web project?
+This page provides a concise overview with pointers to help address the most critical issues.
+Find a more comprehensive accessibility approach for the entire design and development process in [Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }}).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+-   TOC is created automatically.
+{:toc}
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 
 Key Resources for Designers and Developers {#resources}
 ------------------------------------------
