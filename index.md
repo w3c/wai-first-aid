@@ -75,7 +75,7 @@ section. If you need to identify potential issues, these resources can
 help:
 
 -   [Easy Checks — A First Review of Web
-    Accessibility]({{ "/test-evaluation/preliminary/" | relative_url }}) —
+    Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) —
     Simple checks that can be carried out by anyone, regardless of
     technical skills and accessibility knowledge.
 -   [List of Web Accessibility Evaluation
@@ -168,8 +168,8 @@ Tips for Efficient Repair {#repair}
     settings in the authoring tools you use to create web content, such
     as your content management system (CMS). The resources about
     [selecting evaluation
-    tools](https://www.w3.org/WAI/eval/selectingtools) and [selecting
-    authoring tools]({{ "/planning-and-managing/" | relative_url }}/software) may be
+    tools]({{ "/test-evaluate/tools/selecting/" | relative_url }}) and [selecting
+    authoring tools](https://www.w3.org/WAI/impl/software) may be
     helpful.
 
 Longer Term: Planning and Managing {#plan}
