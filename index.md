@@ -1,6 +1,6 @@
 ---
 title: "Web Accessibility First Aid: Approaches for Interim Repairs"
-permalink: /plan/interim-repairs/
+permalink: /planning/interim-repairs/
 github:
   repository: w3c/wai-first-aid
 footer: >
@@ -164,7 +164,7 @@ Tips for Efficient Repair {#repair}
     changes that do not work in practice. If at all possible, it is
     important to involve people with disabilities in such validation.
     The resources about [involving users in web
-    projects]({{ "/plan/involving-users/" | relative_url }}) and [evaluating
+    projects]({{ "/planning/involving-users/" | relative_url }}) and [evaluating
     with users]({{ "/test-evaluate/involving-users/" | relative_url }}) provide more
     background.
 -   **Optimize your Tools** — Explore and configure accessibility
