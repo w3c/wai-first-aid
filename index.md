@@ -4,7 +4,7 @@ permalink: /planning/interim-repairs/
 github:
   repository: w3c/wai-first-aid
 footer: >
-  <p><strong>Date:</strong> Updated November 2016. First published March 2006.<br>History: Previously titled "Short Term Website Accessibility Improvements" and "Improving the Accessibility of Your Website".</p>
+  <p><strong>Date:</strong> Minor link updated 23 May 2018. Last substantive update November 2016. First published March 2006.<br>History: Previously titled "Short Term Website Accessibility Improvements" and "Improving the Accessibility of Your Website".</p>
   <p><strong>Editor: </strong><a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editors: <a href="https://www.w3.org/People/kevin">Kevin White</a> and <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.  Previous contributors: Sharron Rush, Anna Belle Leiserson, Judy Brewer, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). First developed with support from <a href="https://www.w3.org/WAI/TIES/"><acronym title="Web Accessibility Initiative: Training, Implementation, Education, Support">WAI-TIES</acronym> Project</a>, then updated with support of the <a href="https://www.w3.org/WAI/ACT/"><acronym title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</acronym> Project</a>, and later the <a href="https://www.w3.org/WAI/DEV/"><acronym>WAI-DEV</acronym> Project</a>.</p>
 ---
@@ -52,7 +52,7 @@ What is Accessibility? {#understand}
 If you are new to accessibility, it is often helpful to first get a
 basic understanding of accessibility:
 
--   [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)— Introduces essential concepts, rationale, and resources.
+-   [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) — Introduces essential concepts, rationale, and resources.
 -   [Web Accessibility
     Perspectives]({{ "/perspective-videos/" | relative_url }}) — Short
     non-technical videos that introduce accessibility features and their
