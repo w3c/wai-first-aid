@@ -42,9 +42,9 @@ Key Resources for Designers and Developers {#resources}
 -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) —
     Detailed information on specific topics with guidance on addressing
     accessibility requirements.
--   [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/) — A
+-   [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/) — A
     customizable quick reference to Web Content Accessibility Guidelines
-    (WCAG) 2.0.
+    (WCAG) 2.
 
 What is Accessibility? {#understand}
 ----------------------
@@ -127,14 +127,14 @@ by focusing on:
 Set your Accessibility Target Level {#target}
 -----------------------------------
 
-The generally accepted target for accessibility is [Web Content
-Accessibility Guidelines (WCAG) 2.0]({{ "/standards-guidelines/wcag/" | relative_url }})
+The generally accepted target for accessibility is the latest version of [Web Content
+Accessibility Guidelines (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }})
 Level AA. This may already be the standard specified in your
 organizational policy or it may be the legal requirement for your
 website.
 
 You may need to define a phased approach with different dates for
-different levels. For example, meet particular WCAG 2.0 success criteria
+different levels. For example, meet particular WCAG 2 success criteria
 in the next release, and meet all [Level A and Level
 AA](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_overview&levels=aaa)
 success criteria in the following release.
