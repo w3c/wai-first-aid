@@ -1,13 +1,29 @@
 ---
+# translation notes are after "#" in this section
+
 title: "Web Accessibility First Aid: Approaches for Interim Repairs"
-permalink: /planning/interim-repairs/
+title_html: "Web Accessibility First Aid:<br> Approaches for Interim Repairs"
+nav_title: Approaches for Interim Repairs
+
+ref: /planning/interim-repairs/   # Translators, do not change this
+
 github:
   repository: w3c/wai-first-aid
+  path: index.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+permalink: /planning/interim-repairs/   # Add the language shortcode to the end, with no slash at end, for example: /planning/interim-repairs/fr
+
+lang: en   # Change "en" to the translated language shortcode
+last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translators:   # remove from the beginning of the line: "# " and add your name(s)
+# - name: Translator 1's Name
+
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 9 January 2019. First published March 2006.<br>History: Previously titled "Short Term Website Accessibility Improvements" and "Improving the Accessibility of Your Website".</p>
   <p><strong>Editor: </strong><a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editors: <a href="https://www.w3.org/People/kevin">Kevin White</a> and <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.  Previous contributors: Sharron Rush, Anna Belle Leiserson, Judy Brewer, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). First developed with support from <a href="https://www.w3.org/WAI/TIES/"><acronym title="Web Accessibility Initiative: Training, Implementation, Education, Support">WAI-TIES</acronym> Project</a>, then updated with support of the <a href="https://www.w3.org/WAI/ACT/"><acronym title="Web Accessibility Initiative - Cooperation Framework for Guidance on Advanced Technologies, Evaluation Methodologies, and Research Agenda Setting to Support eAccessibility">WAI-ACT</acronym> Project</a>, and later the <a href="https://www.w3.org/WAI/DEV/"><acronym>WAI-DEV</acronym> Project</a>.</p>
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
