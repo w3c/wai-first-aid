@@ -7,7 +7,7 @@ RUBY_VERSION = "2.6.2"
 
 [[redirects]]
   from = "/"
-  to = "/standards-guidelines/linking/"
+  to = "/planning/interim-repairs/"
 
 [dev]
 publish = "_site"
