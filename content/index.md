@@ -9,7 +9,7 @@ ref: /planning/interim-repairs/   # Translators, do not change this
 
 github:
   repository: w3c/wai-first-aid
-  path: index.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+  path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /planning/interim-repairs/   # Add the language shortcode to the end, with no slash at end, for example: /planning/interim-repairs/fr
 
 lang: en   # Change "en" to the translated language shortcode
