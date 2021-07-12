@@ -4,6 +4,7 @@
 title: "Questions urgentes en matière d'accessibilité Web : des solutions provisoires"
 title_html: "Questions urgentes en matière d'accessibilité Web :<br> des solutions provisoires"
 nav_title: des solutions provisoires
+layout: default
 ref: /planning/interim-repairs/   # Translators, do not change this
 
 github:

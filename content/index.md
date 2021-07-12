@@ -5,6 +5,7 @@ title: "Web Accessibility First Aid: Approaches for Interim Repairs"
 title_html: "Web Accessibility First Aid:<br> Approaches for Interim Repairs"
 nav_title: Approaches for Interim Repairs
 
+layout: default
 ref: /planning/interim-repairs/   # Translators, do not change this
 
 github:
