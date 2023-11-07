@@ -8,6 +8,8 @@ nav_title: Approaches for Interim Repairs
 lang: en   # Change "en" to the translated-language shortcode
 last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
+layout: default
+ref: /planning/interim-repairs/   # Translators, do not change this
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Translator Name Here" # Add one -name: line for every translator
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
