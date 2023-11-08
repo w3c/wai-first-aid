@@ -136,7 +136,7 @@ Conseils pour des réparations efficaces {#repair}
 -   **Optimisez vos outils** — Explorez et configurez les paramètres d'accessibilité des outils d'édition que vous utilisez pour créer du contenu Web, tel que votre système de gestion de contenu (CMS). Les ressources relatives à la
     [sélection des outils d'évaluation](/test-evaluate/tools/selecting/) et la [sélection des outils d'édition](https://www.w3.org/WAI/impl/software) pourraient vous être utile.
 
-À plus long terme : planifier et générer {#plan}
+À plus long terme : planifier et gérer {#plan}
 ----------------------------------
 
 Une fois que vous avez traité les problèmes d'accessibilité les plus critiques au sein de votre projet Web, il est essentiel que vous planifiiez l'intégration de l'accessibilité tout au long de vos processus de conception et de développement futurs. Le guide pour [planifier et gérer l'accessibilité Web](/planning-and-managing/) peut vous aider à mettre en place ce plan.
